@@ -52,14 +52,14 @@ This repository contains SQL scripts and explanations for common and advanced in
 
 | Question                 | Description                                              | Source                             | Solution                                 |
 |--------------------------|----------------------------------------------------------|----------------------------------------|----------------------------------------|
-| Employees earning more than their managers | finding employees who earn more than their manager, applied self joing | [Datalemur](https://datalemur.com/questions/sql-well-paid-employees) | [Link](./easy_level_question/employee_who_earn_more_than_their_manager.sql)|
+| Employees earning | finding employees who earn more than their manager, applied self joing | [Datalemur](https://datalemur.com/questions/sql-well-paid-employees) | [Link](./easy_level_question/employee_who_earn_more_than_their_manager.sql)|
 
 
 ### Medium
 
 | Question                 | Description                                              | Source                             | Solution                                 |
 |--------------------------|----------------------------------------------------------|----------------------------------------|----------------------------------------|
-|        |      |  |
+| Apples and oranges        | finding difference between apple and oranges      | [leetcode](https://leetcode.com/problems/apples-oranges)  | [Link](./medium_level_question/apples_oranges.sql)|
 
 
 ### Hard
